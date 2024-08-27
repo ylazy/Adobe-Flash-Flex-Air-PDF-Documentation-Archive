@@ -4,7 +4,7 @@ List of official Adobe Flash/Flex/Air PDF Documents from Adobe/Harman
 
 * Adobe Flash Player 32 Administration Guide
 * HTML Developer’s Guide for ADOBE® AIR
-* HTML Developer’s Guide for
+* How to design a Good API and Why it Matters 
 * SWF Format Specification Version 19
 * Optimizing Performance for the ADOBE® FLASH® PLATFORM
 * ACTIONSCRIPT 3.0 Developer's Guide
